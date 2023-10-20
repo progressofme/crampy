@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.py
+crampy/__init__.py
+crampy.egg-info/PKG-INFO
+crampy.egg-info/SOURCES.txt
+crampy.egg-info/dependency_links.txt
+crampy.egg-info/not-zip-safe
+crampy.egg-info/top_level.txt
